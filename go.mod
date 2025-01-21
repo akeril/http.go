@@ -6,6 +6,6 @@
 //
 // DON'T EDIT THIS!
 
-module github.com/kjabin/http.go
+module github.com/akeril/http.go
 
 go 1.22
